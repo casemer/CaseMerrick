@@ -21,3 +21,6 @@
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="50"></a></code>
 
+### Where you can find my games to play:
+
+<code><a href="https://casem.itch.io/"><img alt="Case's Games" title="Case's Games" src="https://www.pinclipart.com/picdir/big/398-3984001_itch-io-logo-clipart.png" height="50"></a></code>
